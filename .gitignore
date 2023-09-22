@@ -5,6 +5,9 @@
 /.pnp
 .pnp.js
 
+jsconfig.json
+next.config.js
+
 # testing
 /coverage
 
@@ -29,6 +32,9 @@ yarn-error.log*
 
 # vercel
 .vercel
+
+package-lock.json
+package.json
 
 # typescript
 *.tsbuildinfo
