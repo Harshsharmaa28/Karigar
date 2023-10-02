@@ -2,7 +2,7 @@
 export default function Login(){
      const ToShow = {
          reg: 'register',
-        log: 'login'
+         log: 'login'
     }
 
 
